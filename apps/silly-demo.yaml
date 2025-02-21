@@ -13,7 +13,7 @@ spec:
   parameters:
     namespace: a-team
     image: ghcr.io/sandbox43210/idp-full-app
-    tag: FIXME
+    tag: 0.0.1
     port: 8080
     host: silly-demo.172.171.52.73.nip.io
     ingressClassName: contour
